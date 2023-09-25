@@ -1,7 +1,7 @@
 use array::{ ArrayTrait, SpanTrait };
 
 // locals
-use rules_utils::utils::partial_eq::SpanPartialEq;
+// use rules_utils::utils::partial_eq::SpanPartialEq;
 use rules_utils::utils::contract_address::ContractAddressTraitExt;
 use super::mocks::contract::Contract;
 use super::mocks::contract::Contract::ContractTrait;
